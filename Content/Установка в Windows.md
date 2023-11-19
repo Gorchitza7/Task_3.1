@@ -1,3 +1,6 @@
+[< **back**](/Content/Установка%20в%20MacOS.md) / [**main**](/readme.md) / [**next** >](/Content/Другие%20способы%20установки.md)
+___
+
 Установка в Windows:
 ---
 
