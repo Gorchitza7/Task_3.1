@@ -28,7 +28,7 @@ ___
 
 ___
 
-![](/img/Git-Logo-White.png)
+![](/img/Git-Logo-White.svg)
 
 ---
 ---
